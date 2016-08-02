@@ -53,10 +53,6 @@ tail -f iplist.log.txt | iponmap  #draws new point on new line
 `-v`, `--version`: print version
 
 ## Examples
-```shell
-# show my ip on map
-curl -s http://www.telize.com/ip | iponmap
-```
 
 ```shell
 host google.com | iponmap -c
@@ -70,4 +66,4 @@ traceroute -n google.com | iponmap -t
 **escape**, **q** , **Ctrl-c**
 
 ## Bugs/Issues/Feature requests
-Create new issue [here](https://github.com/nogizhopaboroda/iponmap/issues)
+Create new issue [here](https://github.com/mapineda/ip-map/issues)
