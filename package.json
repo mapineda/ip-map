@@ -1,5 +1,5 @@
 {
-  "name": "iponmap",
+  "name": "ipmap",
   "version": "1.1.0",
   "description": "visualize geoip data",
   "readme": "README.md",
@@ -16,7 +16,7 @@
     "map",
     "geo"
   ],
-  "author": "Alexander Zhukov",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "blessed": "^0.1.81",

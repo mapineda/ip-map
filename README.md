@@ -1,4 +1,4 @@
-# iponmap
+# ip-map
 
 IpOnMap locates IP address lookup on the world map right in your terminal using awesome nodejs dashboard library [blessed-contrib](https://github.com/yaronn/blessed-contrib).
 
@@ -32,15 +32,15 @@ iponmap ip1 ip2 ip3
 ```
 or through stdin (one ip per line)
 ```shell
-cat iplist.txt | iponmap
+cat ipusalist.txt | iponmap
 ```
 or
 ```shell
-iponmap < iplist.txt
+iponmap < ipusalist.txt
 ```
 or even
 ```shell
-tail -f iplist.log.txt | iponmap  #draws new point on new line
+tail -f ipusalist.log.txt | iponmap  #draws new point on new line
 ```
 
 ## Arguments
